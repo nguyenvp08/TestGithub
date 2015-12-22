@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GotIt</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading_text">Loading...</string>
+    <string name="facebook_app_id">1175147909181009</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="signin_term">by signing up you agree to our term of service</string>
+</resources>
